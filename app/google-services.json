@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "669603947303",
+    "project_id": "tpkakaosearch",
+    "storage_bucket": "tpkakaosearch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669603947303:android:d778a03ae5dc1baf7b3f02",
+        "android_client_info": {
+          "package_name": "com.lux.tpkakaosearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669603947303-5gprdgsfur98qj0mgmch1o1rl43cs0ph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lux.tpkakaosearch",
+            "certificate_hash": "9fa5314b5dd2377288787c72049c59acc5180834"
+          }
+        },
+        {
+          "client_id": "669603947303-qlg1tpi20u3v6kiqvbrj4hekjqdtisd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxzwkay8006J68JETIT7ArMG6H_l2ikDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669603947303-qlg1tpi20u3v6kiqvbrj4hekjqdtisd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
